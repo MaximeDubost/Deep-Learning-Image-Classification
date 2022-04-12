@@ -1,4 +1,4 @@
-# Deep Learning - Dog image classification
+# Deep Learning - Classification d'images
 
 Ce projet consiste à faire une prédiction de la race d'un chien présent sur une image, parmis une liste de 10 races de chiens.
 
